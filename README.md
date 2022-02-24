@@ -2,11 +2,11 @@
   <h3> Olá eu sou o Jonathan Maia :wink: </>
     </div>
   
-  :office_worker: Atualmente estoutrabalhando na Algar Telecom
+  :office_worker: Atualmente estou trabalhando na Algar Telecom
   
-  :technologist:Estou Aprendendo as linguagens JavaScript.
+  :technologist:Estou Aprendendo linguagens como JavaScript e Flutter.
   
-  :man_student:Estou Realizando o Curso tecnico de Informatica.
+  :man_student:Estou Realizando o curso de tecnico em Informatica.
   
   :handshake: Quero poder ajudar em alguns projetos e aprender cada vez mais.
 
