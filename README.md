@@ -3,20 +3,25 @@
     </div>
   
 - 🔭 I’m currently working  on Algar Telecom.
-- 🌱 I’m currently learning ,HTML 5 E CSS3.
-- 👯 I’m looking to collaborate on small projects where can to produce and learn.
- 
+- 🌱 I’m currently learning  Dart e flluter.
+- 👯 I’m looking to collaborate on small projects where can to produce and learning
+  
+[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-maia-49b340a7/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanMaia22&show_icons=true&theme=radical)
   
 
-<div>
-      <a href="https://beacons.ai/jonathanMaia22">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonathanMaia22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanMaia22&layout=compact&langs_count=16&theme=dark"/_>
-        </div>
-       
- <div>
-     <img align="center" alt="jonathan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jonathan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+### Linguagens Tenho afinidade !
+
+<div style="display: inline_block"><br/>
+<img align="center" alt=html5 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" >
+<img align="center" alt=css3 src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+                                                                                                                        </div></br>
+                                                                                                                        
+
+   
+   
    
 
   
