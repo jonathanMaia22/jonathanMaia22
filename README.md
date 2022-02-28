@@ -2,24 +2,21 @@
   <h3> Olá eu sou o Jonathan Maia :wink: </>
     </div>
   
-  :office_worker: <h4> Atualmente estou trabalhando na Algar Telecom
-  
-  :technologist: <h4> Aprimorando os conhecimentos nas linguagens JavaScript e Flutter.
-  
-  
-  :man_student: <h4> Realizando curso de tecnico de informatica.
-  
-  :handshake: <h4> Quero poder ajudar em alguns projetos e aprender cada vez mais.
+   <h4> Atualmente estou trabalhando na Algar Telecom.:office_worker:
+   <h4> Aprimorando os conhecimentos nas linguagens JavaScript e Flutter.:technologist:
+   <h4> Cursosando o 2º modolo do curso de tecnico em informatica.:man_student:
+   <h4> Espero poder contribuir em projetos podendo gerar valor e aprendizado.:handshake:
+     
+     
+     
+     
+ <br>[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-maia-49b340a7/)</br>
 
-  
-  
-[![social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-maia-49b340a7/)
-
-
+     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanMaia22&show_icons=true&theme=radical)
-  
-
-
+ 
+     
+     
 ### <h3> Linguagens que tenho afinidade! :smiley:
 
 <div style="display: inline_block"><br/>
